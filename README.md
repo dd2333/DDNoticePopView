@@ -6,7 +6,7 @@
 [![SUPPORT](https://img.shields.io/badge/support-iOS%207%2B%20-blue.svg?style=flat)](https://en.wikipedia.org/wiki/IOS_7)&nbsp;
 [![BLOG](https://img.shields.io/badge/blog-www.dd2333.com-orange.svg?style=flat)](http://www.dd2333.com)&nbsp;
 
-  NoticePopView / 公告弹出控件.<br />
+  DDNoticePopView / 公告弹出控件.<br />
   
   ![github](https://github.com/dd2333/DDNoticePopView/blob/master/demo.gif "github")
   
@@ -19,7 +19,7 @@ Usage
 
 ### Cocoapods import:
 * NoticePopView is available on CocoaPods. Just add the following to your project Podfile:<br />
-  ```pod 'NoticePopView'```
+  ```pod 'DDNoticePopView'```
 * Use by including the following import:<br />
 ```#import <DDNoticePopView.h>```
 
